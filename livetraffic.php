@@ -7,7 +7,6 @@
     - Time spent on current page
     - Time and date of first and last visit
   - Gathers Browser Information
-    - Whether User is Renter or Owner
     - User's IP Address
     - User's Country
     - User's Browser & Version
