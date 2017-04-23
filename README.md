@@ -20,4 +20,4 @@ Live Traffic Meter
 Written by: Bobby Ratliff
 Tested by: Aaron Mihalchan
 
-*Getting the user's country requires a GeoIP database
+*Getting the user's country requires a GeoIP database (optional)
