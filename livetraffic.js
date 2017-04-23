@@ -4,6 +4,7 @@
    Written by: Bobby Ratliff
 */
 
+var database = "mysql"; // Values: ( mysql | pdo )
 var time_onpage = 0;
 var XMLHttpRequestObject = false;
 var resolution = screen.width+"x"+screen.height;
@@ -48,7 +49,7 @@ if (!XMLHttpRequestObject && window.XMLHttpRequest) {
 
 function send_stats ()
 {
-  var url = "assets/php/livetraffic.php";
+  var url = "assets/php/livetraffic."+database+".php";
   
   if(XMLHttpRequestObject) {
     XMLHttpRequestObject.open("POST", url);
