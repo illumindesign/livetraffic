@@ -1,5 +1,5 @@
 /* Live Traffic Meter
-   (c) 2010-2017 Illumin Design, Co.
+   (c) 2011-2017 Illumin Design, Co.
    
    Written by: Bobby Ratliff
 */
