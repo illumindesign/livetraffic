@@ -1,3 +1,4 @@
+<?php
 /*
   Global Database Connection
 */
