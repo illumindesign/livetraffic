@@ -1,5 +1,4 @@
 # livetraffic
-
 Live Traffic Meter
   - Tracks Current Web Traffic
     - Which page they're on
