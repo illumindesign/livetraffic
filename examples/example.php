@@ -8,7 +8,7 @@
     var c_page = '<?=$_SERVER['REQUEST_URI']?>';
     -->
     </script>
-    <script language="Javascript" type="text/javascript" src="../livetraffic.js"></script>
+    <script language="Javascript" type="text/javascript" src="livetraffic.js"></script>
 </head>
 <body>
   Tracking this page
