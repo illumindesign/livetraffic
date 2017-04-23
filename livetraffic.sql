@@ -23,10 +23,6 @@ CREATE TABLE `livetraffic` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
--- Indexes for dumped tables
---
-
---
 -- Indexes for table `livetraffic`
 --
 ALTER TABLE `livetraffic`
@@ -36,10 +32,6 @@ ALTER TABLE `livetraffic`
   ADD KEY `session` (`session`),
   ADD KEY `mobile` (`mobile`),
   ADD KEY `bot` (`bot`);
-
---
--- AUTO_INCREMENT for dumped tables
---
 
 --
 -- AUTO_INCREMENT for table `livetraffic`
