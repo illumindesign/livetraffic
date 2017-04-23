@@ -48,7 +48,7 @@ if (!XMLHttpRequestObject && window.XMLHttpRequest) {
 
 function send_stats ()
 {
-  var url = "bin/livetraffic.php";
+  var url = "assets/php/livetraffic.php";
   
   if(XMLHttpRequestObject) {
     XMLHttpRequestObject.open("POST", url);
